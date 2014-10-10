@@ -5,3 +5,4 @@ pqcomp
 CMakeCache.txt
 Makefile
 cmake_install.cmake
+gmon.out
